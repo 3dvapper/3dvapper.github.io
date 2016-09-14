@@ -19,6 +19,13 @@ Pocket
 
 + [LeetCode Online Judge](https://leetcode.com/)
 
+Туториалы
+---------
+
++ [Five life jackets to throw to the new coder](http://newcoder.io/)
+
++ [Python Programming Guides and Tutorials](http://pythoncentral.io/)
+
 Интересные блоги
 ----------------
 
@@ -29,6 +36,10 @@ Pocket
 + [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 + [Graham Dumpleton](http://blog.dscpl.com.au/)
+
++ [Записки программиста](http://eax.me/)
+
++ [Веб разработка на Python](http://www.alexkorablev.ru/)
 
 Интересные статьи
 -----------------
