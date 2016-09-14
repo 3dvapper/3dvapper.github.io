@@ -10,6 +10,29 @@ Pocket
 
 + [Советы и примеры задач, которые помогут вам в освоении нового языка программирования](http://eax.me/programming-language-learning/)
 
++ [Вопросы и задания по Python](http://pyobject.ru/blog/2010/02/04/python-quiz/)
+
++ [Programming Praxis](https://programmingpraxis.com/)
+
+Головоломки
+-----------
+
++ [Advent of code](http://adventofcode.com/)
+
++ [Python Challenge](http://www.pythonchallenge.com/)
+
++ [CodinGame](https://www.codingame.com/)
+
++ [Codewars](http://www.codewars.com/)
+
++ [CodeEval](https://www.codeeval.com/)
+
++ [Sphere online judge](http://www.spoj.com/problems/classical/)
+
++ [CheckIO](https://checkio.org/)
+
++ [Empire of Code](https://empireofcode.com/)
+
 Тематические сайты
 ------------------
 
@@ -19,12 +42,22 @@ Pocket
 
 + [LeetCode Online Judge](https://leetcode.com/)
 
++ [Awesome Python](https://github.com/vinta/awesome-python)
+
++ [PyVideo](http://pyvideo.org/)
+
+
+
 Туториалы
 ---------
+
++ [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 
 + [Five life jackets to throw to the new coder](http://newcoder.io/)
 
 + [Python Programming Guides and Tutorials](http://pythoncentral.io/)
+
++ [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 
 Интересные блоги
 ----------------
@@ -41,6 +74,8 @@ Pocket
 
 + [Веб разработка на Python](http://www.alexkorablev.ru/)
 
++ [Yury Yurevich on Python](http://pyobject.ru/blog/)
+
 Интересные статьи
 -----------------
 
@@ -56,3 +91,8 @@ Pocket
 -------------------
 
 + [Build Apps with Machine Learning](http://www.monkeylearn.com/)
+
+Алгоритмы
+---------
+
++ [Algo List](http://algolist.manual.ru/)
