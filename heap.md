@@ -1,6 +1,3 @@
-Pocket
-======
-
 Задачи для программистов
 ------------------------
 + [28 cайтов с задачами по программированию](https://tproger.ru/digest/competitive-programming-practice/)
