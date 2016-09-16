@@ -6,6 +6,11 @@
 + [Вопросы и задания по Python](http://pyobject.ru/blog/2010/02/04/python-quiz/)
 + [Programming Praxis](https://programmingpraxis.com/)
 
+Сертификация
+------------
++ [Сертификация Mail.ru](https://certification.mail.ru/)
++ [Quizful](http://www.quizful.net/test)
+
 Головоломки
 -----------
 + [Advent of code](http://adventofcode.com/)
@@ -16,6 +21,7 @@
 + [Sphere online judge](http://www.spoj.com/problems/classical/)
 + [CheckIO](https://checkio.org/)
 + [Empire of Code](https://empireofcode.com/)
++ [Coding Bat](http://codingbat.com/python)
 
 Тематические сайты
 ------------------
@@ -24,6 +30,10 @@
 + [LeetCode Online Judge](https://leetcode.com/)
 + [Awesome Python](https://github.com/vinta/awesome-python)
 + [PyVideo](http://pyvideo.org/)
++ [ActiveState Code](http://code.activestate.com/)
++ [Recurse Center](https://www.recurse.com/)
++ [Nullege - search engine for Python source code](http://nullege.com/)
++ [Про Python](http://pythonz.net/)
 
 Туториалы
 ---------
@@ -31,6 +41,14 @@
 + [Five life jackets to throw to the new coder](http://newcoder.io/)
 + [Python Programming Guides and Tutorials](http://pythoncentral.io/)
 + [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
++ [Learning environment from O'Reilly](http://chimera.labs.oreilly.com/)
++ [Practical Business Python](http://pbpython.com/)
++ [Python Tips](http://book.pythontips.com/)
++ [Practice Python](http://www.practicepython.org/)
++ [Python Practice Projects](http://pythonpracticeprojects.com/)
++ [Learn Pyton](http://www.learnpython.org/)
++ [Mark & Click - Python Interactive Tutorial](http://www.markandclick.com/advance.html)
++ [Hackr.io - share programming tutuorials](https://hackr.io/)
 
 Интересные блоги
 ----------------
@@ -41,6 +59,9 @@
 + [Записки программиста](http://eax.me/)
 + [Веб разработка на Python](http://www.alexkorablev.ru/)
 + [Yury Yurevich on Python](http://pyobject.ru/blog/)
++ [NoDesk - about digital nomad](http://nodesk.co/)
++ [Valentin Bryukhanov](http://bryukh.com/)
++ [Slender Means](http://slendermeans.org/)
 
 Интересные статьи
 -----------------
@@ -48,6 +69,7 @@
 + [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
 + [Would You Survive the Titanic? A Guide to Machine Learning in Python](https://medium.com/learning-new-stuff/would-you-survive-the-titanic-a-guide-to-machine-learning-in-python-f80c9d7b7582#.hd2h7cew8)
 + [Итак, вы решили стать программистом](http://eax.me/beginning-programming/)
++ [A collection of Python must reads](http://jessenoller.com/good-to-great-python-reads/)
 
 Интересные продукты
 -------------------
@@ -56,3 +78,8 @@
 Алгоритмы
 ---------
 + [Algo List](http://algolist.manual.ru/)
++ [Big-O Cheat Sheet](http://bigocheatsheet.com/)
+
+Книги
+-----
++ [Python Books](https://wiki.python.org/moin/PythonBooks)
