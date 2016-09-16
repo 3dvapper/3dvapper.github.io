@@ -5,6 +5,7 @@
 + [Советы и примеры задач, которые помогут вам в освоении нового языка программирования](http://eax.me/programming-language-learning/)
 + [Вопросы и задания по Python](http://pyobject.ru/blog/2010/02/04/python-quiz/)
 + [Programming Praxis](https://programmingpraxis.com/)
++ [Code Cata](http://codekata.com/)
 
 Сертификация
 ------------
@@ -83,3 +84,17 @@
 Книги
 -----
 + [Python Books](https://wiki.python.org/moin/PythonBooks)
++ [For Coder](http://forcoder.ru/)
++ [Prog Book](http://progbook.ru/)
++ [ScanLibs](http://scanlibs.com/)
+
+Обучающие сайты
+---------------
++ [Programmr](http://www.programmr.com/)
++ [Khan Academy](https://www.khanacademy.org/)
++ [O'Reilly School of Tecnology](http://archive.oreilly.com/oreillyschool/index.html)
++ [Code Dojo](https://coderdojo.com/)
++ [IBM developerWorks](http://www.ibm.com/developerworks/ru/)
++ [Stepic](https://stepic.org/)
++ [Coursera](https://www.coursera.org/)
++ [Лекториум](https://www.lektorium.tv/)
